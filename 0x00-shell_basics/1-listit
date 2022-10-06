@@ -1,1 +1,2 @@
-#!/bin/bash echo "0-current_working_dierectory 1-listit README.md"
+#!/bin/bash echo
+ls
