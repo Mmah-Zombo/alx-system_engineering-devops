@@ -1,1 +1,1 @@
-#!/bin/bash echo "/alx-system_engineering-devops/0x00-shell_basics"
+#!/bin/bash\necho "/alx-system_enginerring_devops/0x00-shell_basics"
