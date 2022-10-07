@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff pwd 
+chown vincent:staff /. 
