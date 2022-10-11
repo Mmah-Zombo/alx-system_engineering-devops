@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `awk -F: '{print NF}' <<<"$PATH"`
+echo $((`tr -dc : <<<"$PATH" | wc -c`+1))
