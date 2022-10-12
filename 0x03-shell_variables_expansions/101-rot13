@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf '%s\n' | rot13)
+rot13
