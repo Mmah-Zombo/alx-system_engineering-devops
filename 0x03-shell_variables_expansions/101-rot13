@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' | rot13
+echo $(printf '%s\n' | rot13)
