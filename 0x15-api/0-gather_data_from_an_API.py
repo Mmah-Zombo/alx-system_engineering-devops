@@ -1,7 +1,8 @@
+#!/usr/bin/env python
 #!/usr/bin/python3
 "returns information about his/her TODO list progress"
-import sys
 import requests 
+import sys
 
 if __name__ == '__main__':
   employee = requests.get("https://jsonplaceholder.typicode.com/users/{}".format(sys.argv[1])).json()
