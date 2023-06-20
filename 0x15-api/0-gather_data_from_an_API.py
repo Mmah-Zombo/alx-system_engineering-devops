@@ -1,12 +1,12 @@
-#!/usr/bin/env python
 #!/usr/bin/python3
 "returns information about his/her TODO list progress"
 import requests 
 import sys
 
 if __name__ == '__main__':
-  employee = requests.get("https://jsonplaceholder.typicode.com/users/{}".format(sys.argv[1])).json()
-  todos = requests.get("https://jsonplaceholder.typicode.com/todos", params={'userId': employee['id'],}).json()
+  url = "https://jsonplaceholder.typicode.com/"
+  employee = requests.get(url + "users/{}".format(sys.argv[1])).json()
+  todos = requests.get(url + "todos", params={'userId': employee['id'],}).json()
   tasks = len(todos)
   completed_tasks = [x['title'] for x in todos if x['completed'] == True]
 
