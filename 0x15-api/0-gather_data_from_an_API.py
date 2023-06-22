@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"returns information about his/her TODO list progress"
+"""returns information about his/her TODO list progress"""
 import requests
 import sys
 
