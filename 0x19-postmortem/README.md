@@ -26,7 +26,7 @@ To prevent future crashes and preserve the tranquility of my server realm, I pro
 
 3. Disaster Recovery Preparedness: Fortify the disaster recovery mechanisms, enabling swift restoration in the face of adversity.
 
-4. Knowledge Sharing: Foster a culture of collaboration and knowledge sharing, where wisdom flows freely like an oasis in the desert of server crashes. Let our teams unite their expertise, learning from this experience and arming themselves with the collective strength to face future challenges.
+4. Knowledge Sharing: Foster a culture of collaboration and knowledge sharing, where wisdom flows freely like an oasis in the desert of server crashes. Let people unite their expertise, learning from this experience and arming themselves with the collective strength to face future challenges.
 
 Tasks to address the issue:
 
@@ -35,4 +35,4 @@ Tasks to address the issue:
 - Enhance disaster recovery protocols, ensuring reliable backups and efficient restoration processes.
 - Encourage knowledge sharing through regular meetings, documentation, and training sessions.
 
-While our Ubuntu server crash may have caused a brief disruption, we emerged from the incident with valuable lessons learned and a renewed commitment to server stability. With a touch of humor and a strong focus on continuous improvement, we shall forge ahead, ready to tackle whatever challenges come our way.
+While my Ubuntu server crash may have caused a brief disruption, I emerged from the incident with valuable lessons learned and a renewed commitment to server stability. With a touch of humor and a strong focus on continuous improvement, I shall forge ahead, ready to tackle whatever challenges come our way.
